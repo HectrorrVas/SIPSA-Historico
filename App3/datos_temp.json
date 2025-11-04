@@ -1,0 +1,733 @@
+{
+  "metadata": {
+    "producto": "Tomate chonto",
+    "ciudad": "cali",
+    "anio": "2025",
+    "hoja": "1.1",
+    "seccion": "Verduras y hortalizas",
+    "total_archivos": 45,
+    "archivos_procesados": 44,
+    "fecha_procesamiento": "2025-11-01T15:27:29.532596"
+  },
+  "datos": [
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-02ago08ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3400,
+      "precio_medio": 3400,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-25ene-31ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 3600,
+      "precio_medio": 3600,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-25ene-31ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3900,
+      "precio_medio": 3900,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-24may-30may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4500,
+      "precio_medio": 4500,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-24may-30may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3200,
+      "precio_medio": 3200,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-23ago29ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 3600,
+      "precio_medio": 3600,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-23ago29ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3700,
+      "precio_medio": 3700,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-22mar-28mar-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 3600,
+      "precio_medio": 3600,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-22mar-28mar-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 2300,
+      "precio_medio": 2300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-25oct31oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4200,
+      "precio_medio": 4200,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-22feb-28feb-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4000,
+      "precio_medio": 4000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-21jun27jun-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4300,
+      "precio_medio": 4300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-21jun27jun-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 1600,
+      "precio_medio": 1600,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-20sep26sep-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 2000,
+      "precio_medio": 2000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-20sep26sep-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4000,
+      "precio_medio": 4000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-1mar-7mar-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-1mar-7mar-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4000,
+      "precio_medio": 4000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-1feb-7feb-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-1feb-7feb-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-22feb-28feb-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4200,
+      "precio_medio": 4200,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-19jul25jul-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 1600,
+      "precio_medio": 1600,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-25oct31oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4700,
+      "precio_medio": 4700,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-26abr-2may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3000,
+      "precio_medio": 3000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-4ene-10ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 3000,
+      "precio_medio": 3000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-4ene-10ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4700,
+      "precio_medio": 4700,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-3may-9may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 6000,
+      "precio_medio": 6000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-3may-9may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 2800,
+      "precio_medio": 2800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-31may-06jun-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 3800,
+      "precio_medio": 3800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-31may-06jun-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3000,
+      "precio_medio": 3000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-30ago05sep-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 3200,
+      "precio_medio": 3200,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-30ago05sep-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 5000,
+      "precio_medio": 5000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-26abr-2may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3800,
+      "precio_medio": 3800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-29mar-04abr-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-28jun04jul-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4300,
+      "precio_medio": 4300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-28jun04jul-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 2600,
+      "precio_medio": 2600,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-28dic-3ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 3400,
+      "precio_medio": 3400,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-28dic-3ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 1800,
+      "precio_medio": 1800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-27sep3oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 2300,
+      "precio_medio": 2300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-27sep3oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3800,
+      "precio_medio": 3800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-26jul01ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-26jul01ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-29mar-04abr-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 3900,
+      "precio_medio": 3900,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-19jul25jul-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4800,
+      "precio_medio": 4800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-19abr-25abr-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4800,
+      "precio_medio": 4800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-19abr-25abr-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4500,
+      "precio_medio": 4500,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-11ene-17ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 5000,
+      "precio_medio": 5000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-10may-16may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 5500,
+      "precio_medio": 5500,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-10may-16may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3900,
+      "precio_medio": 3900,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-09ago15ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-09ago15ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 2800,
+      "precio_medio": 2800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-08mar-14mar-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 3600,
+      "precio_medio": 3600,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-08mar-14mar-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4000,
+      "precio_medio": 4000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-07jun-13jun-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4000,
+      "precio_medio": 4000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-11ene-17ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-07jun-13jun-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 2700,
+      "precio_medio": 2700,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-06sep12sep-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-05jul11jul-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4300,
+      "precio_medio": 4300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-05jul11jul-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4000,
+      "precio_medio": 4000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-05abr-11abr-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 5000,
+      "precio_medio": 5000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-05abr-11abr-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 1600,
+      "precio_medio": 1600,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-04oct10oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 1800,
+      "precio_medio": 1800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-04oct10oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3000,
+      "precio_medio": 3000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-02ago08ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 2400,
+      "precio_medio": 2400,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-06sep12sep-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 2300,
+      "precio_medio": 2300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-11oct17oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 2000,
+      "precio_medio": 2000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-11oct17oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 5000,
+      "precio_medio": 5000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-12abr-16abr-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 2000,
+      "precio_medio": 2000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-18oct24oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 2300,
+      "precio_medio": 2300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-18oct24oct-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 3700,
+      "precio_medio": 3700,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-18ene-24ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 2300,
+      "precio_medio": 2300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-18ene-24ene-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 5000,
+      "precio_medio": 5000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-17may-23may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 5000,
+      "precio_medio": 5000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-17may-23may-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4500,
+      "precio_medio": 4500,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-16ago22ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4500,
+      "precio_medio": 4500,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-16ago22ago-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4000,
+      "precio_medio": 4000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-15mar-21mar-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4300,
+      "precio_medio": 4300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-15mar-21mar-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4000,
+      "precio_medio": 4000,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-15feb-21feb-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4500,
+      "precio_medio": 4500,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-15feb-21feb-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4200,
+      "precio_medio": 4200,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-14jun-20jun-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4700,
+      "precio_medio": 4700,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-14jun-20jun-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 2800,
+      "precio_medio": 2800,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-13sep19sep-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 2900,
+      "precio_medio": 2900,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-13sep19sep-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-12jul18jul-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4300,
+      "precio_medio": 4300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-12jul18jul-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4300,
+      "precio_medio": 4300,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-12abr-16abr-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Cavasa",
+      "precio_minimo": 4100,
+      "precio_medio": 4100,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-8feb-14feb-2025.xlsx"
+    },
+    {
+      "producto": "Tomate chonto",
+      "mercado": "Cali, Santa Elena",
+      "precio_minimo": 4200,
+      "precio_medio": 4200,
+      "fecha": "2025-01-01 00:00:00",
+      "archivo": "anex-SIPSASemanal-8feb-14feb-2025.xlsx"
+    }
+  ],
+  "estadisticas": {
+    "promedio_anual": 3710.2272727272725,
+    "precio_max": 6000.0,
+    "precio_min": 1600.0,
+    "mes_caro": 1,
+    "precio_mes_caro": 3710.2272727272725,
+    "mes_barato": 1,
+    "precio_mes_barato": 3710.2272727272725,
+    "resumen_mensual": [
+      {
+        "mes": 1,
+        "precio_medio": 3710.2272727272725
+      }
+    ]
+  }
+}

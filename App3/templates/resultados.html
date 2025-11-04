@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📊 RESULTADOS - ANÁLISIS SIPSA</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <!-- Header de Resultados -->
+    <div class="card fade-in">
+      <div class="card-header">
+        <h1>📊 RESULTADOS DEL ANÁLISIS</h1>
+        <p class="subtitle">
+          {{ producto.upper() }} EN {{ ciudad.upper() }} - SISTEMA DE PRECIOS DE CANASTA FAMILIAR
+        </p>
+      </div>
+    </div>
+
+    {% if error %}
+    <!-- Mensaje de Error -->
+    <div class="card fade-in" style="animation-delay: 0.2s;">
+      <div class="card-body">
+        <div class="alert alert-error">
+          <h3>⚠️ NO SE ENCONTRARON DATOS</h3>
+          <p>{{ error }}</p>
+        </div>
+        <div style="text-align: center;">
+          <a href="/" class="btn btn-secondary">
+            <span class="icon">↩️</span>
+            VOLVER AL INICIO
+          </a>
+        </div>
+      </div>
+    </div>
+    {% else %}
+
+    <!-- Estadísticas Principales -->
+    <div class="card fade-in" style="animation-delay: 0.2s;">
+      <div class="card-body">
+        <h2>📈 ESTADÍSTICAS PRINCIPALES</h2>
+        <div class="decorative-bar"></div>
+
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-value">{{ "%.0f"|format(promedio_anual) }}</div>
+            <div class="stat-label">PROMEDIO ANUAL</div>
+            <p style="margin-top: 8px; color: var(--gray); font-size: 12px;">
+              PRECIO MEDIO EN COP/KG
+            </p>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-value">{{ "%.0f"|format(precio_max) }}</div>
+            <div class="stat-label">PRECIO MÁXIMO</div>
+            <p style="margin-top: 8px; color: var(--gray); font-size: 12px;">
+              VALOR MÁS ALTO REGISTRADO
+            </p>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-value">{{ "%.0f"|format(precio_min) }}</div>
+            <div class="stat-label">PRECIO MÍNIMO</div>
+            <p style="margin-top: 8px; color: var(--gray); font-size: 12px;">
+              VALOR MÁS BAJO REGISTRADO
+            </p>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-value">{{ archivos_procesados }}/{{ total_archivos }}</div>
+            <div class="stat-label">ARCHIVOS</div>
+            <p style="margin-top: 8px; color: var(--gray); font-size: 12px;">
+              PROCESADOS/ENCONTRADOS
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Gráfico Principal -->
+    <div class="card fade-in" style="animation-delay: 0.3s;">
+      <div class="card-body">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px; flex-wrap: wrap; gap: 15px;">
+          <h2>📊 EVOLUCIÓN DE PRECIOS</h2>
+          <span class="product-badge">
+            {{ producto.upper() }}
+          </span>
+        </div>
+        <div class="decorative-bar"></div>
+
+        <!-- Gráfico Plotly Responsivo -->
+        <div class="graph-container-responsive">
+          {{ grafico | safe }}
+        </div>
+      </div>
+    </div>
+
+    <!-- Información Adicional -->
+    <div class="card fade-in" style="animation-delay: 0.4s;">
+      <div class="card-body">
+        <h2>💡 INFORMACIÓN DEL ANÁLISIS</h2>
+        <div class="decorative-bar"></div>
+
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-value">📅</div>
+            <div class="stat-label">ANÁLISIS TEMPORAL</div>
+            <p style="margin-top: 12px; color: var(--gray); font-size: 14px; font-weight: 500;">
+              DATOS PROCESADOS DE MÚLTIPLES BOLETINES SEMANALES
+            </p>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-value">📊</div>
+            <div class="stat-label">TENDENCIAS</div>
+            <p style="margin-top: 12px; color: var(--gray); font-size: 14px; font-weight: 500;">
+              LÍNEAS SUAVIZADAS MUESTRAN COMPORTAMIENTO ESTACIONAL
+            </p>
+          </div>
+
+          <div class="stat-card">
+            <div class="stat-value">🎯</div>
+            <div class="stat-label">PRECISIÓN</div>
+            <p style="margin-top: 12px; color: var(--gray); font-size: 14px; font-weight: 500;">
+              DATOS OFICIALES DEL SISTEMA SIPSA
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Acciones -->
+    <div class="card fade-in" style="animation-delay: 0.5s;">
+      <div class="card-body" style="text-align: center;">
+        <h3>¿NECESITAS OTRO ANÁLISIS?</h3>
+        <div style="display: flex; gap: 20px; justify-content: center; margin-top: 25px; flex-wrap: wrap;">
+          <a href="/" class="btn btn-primary">
+            <span class="icon">🔍</span>
+            NUEVO ANÁLISIS
+          </a>
+          <button onclick="window.print()" class="btn btn-secondary">
+            <span class="icon">🖨️</span>
+            IMPRIMIR REPORTE
+          </button>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
+    <!-- Footer -->
+    <div style="text-align: center; margin-top: 40px; padding: 25px; color: var(--primary-dark);">
+      <p style="font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">
+        SIPSA ANALYZER PRO © 2024 - SISTEMA DE INFORMACIÓN DE PRECIOS Y ABASTECIMIENTO
+      </p>
+      <p style="margin-top: 10px; opacity: 0.8; font-weight: 600;">
+        CANASTA FAMILIAR - DATOS OFICIALES
+      </p>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const elements = document.querySelectorAll('.card');
+      elements.forEach((el, index) => {
+        el.style.animationDelay = `${index * 0.1}s`;
+      });
+    });
+
+    // Auto-scroll suave al gráfico
+    setTimeout(() => {
+      document.querySelector('.graph-container-responsive')?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center'
+      });
+    }, 1000);
+  </script>
+</body>
+</html>

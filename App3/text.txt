@@ -1,0 +1,8 @@
+flask_sipsa_app/
+├── app.py
+├── templates/
+│   ├── index.html
+│   └── resultados.html
+├── static/
+│   └── style.css
+└── requirements.txt
